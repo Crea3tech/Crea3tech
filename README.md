@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crea3tech
 - 👀 I’m interested in coding apps
 - 🌱 I’m currently learning python language
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m looking for collaboration on github
 - 📫 How to get me like a professional
 
 <!---
